@@ -1,0 +1,3 @@
+git add <filename> => to add file to .git filename
+git add . => to add files in the current folder to .git file
+git add * => to add multiple files in from multiple folders to .git file
